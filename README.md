@@ -1,64 +1,70 @@
 <div align="center">
 
-# Muhammad Musa
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F172A,50:1E293B,100:0EA5E9&height=220&section=header&text=Muhammad%20Musa&fontSize=48&fontColor=FFFFFF&fontAlignY=38&desc=AI%20Engineer%20%7C%20LLMs%20%7C%20RAG%20%7C%20AI%20Agents&descAlignY=60&descSize=18" width="100%"/>
 
-### AI Engineer · LLMs · RAG · AI Agents · Full-Stack AI
+# AI Engineer
 
-Building practical AI-powered applications, intelligent agents, and scalable backend systems.
+### Building intelligent systems with **LLMs · RAG · AI Agents · ML · Full-Stack**
 
-<br>
+<p>
+  <a href="https://www.linkedin.com/in/muhammad-musa-8a2758257">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/Muhammad-Musa3344">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+</p>
 
-<a href="https://www.linkedin.com/in/muhammad-musa-8a2758257">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/Muhammad-Musa3344">
-  <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=Muhammad-Musa3344&style=flat-square&color=0EA5E9&label=PROFILE+VIEWS"/>
 
 </div>
 
 ---
 
-## 🤖 About Me
+## 🧠 What I Build
 
-I'm a Computer Science student focused on **AI Engineering and Generative AI**, with hands-on experience building AI-powered applications and backend systems.
+<table>
+<tr>
+<td width="33%" align="center">
 
-My work focuses on:
+### 🤖 Generative AI
 
-* 🧠 Large Language Models (LLMs)
-* 🔎 Retrieval-Augmented Generation (RAG)
-* 🤖 AI Agents & Agentic AI
-* 🗣️ NLP & Transformer Models
-* ⚙️ AI Backend Development
-* 🌐 Full-Stack AI Applications
-* 🚀 REST APIs & AI Deployment
+LLMs
+RAG Systems
+AI Agents
+Prompt Engineering
+LangChain
+LangGraph
 
----
+</td>
 
-## 🛠️ Tech Stack
+<td width="33%" align="center">
 
-### Artificial Intelligence
+### ⚙️ AI Engineering
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square\&logo=python\&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square\&logo=pytorch\&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square\&logo=huggingface\&logoColor=black)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square\&logo=chainlink\&logoColor=white)
+Python
+FastAPI
+REST APIs
+Vector Search
+NLP
+Machine Learning
 
-### AI Engineering
+</td>
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square\&logo=fastapi\&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
-![REST API](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square\&logo=supabase\&logoColor=white)
+<td width="33%" align="center">
 
-### Full-Stack
+### 🌐 Full-Stack AI
 
-![React](https://img.shields.io/badge/React-20232A?style=flat-square\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square\&logo=next.js\&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square\&logo=node.js\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square\&logo=postgresql\&logoColor=white)
+Next.js
+React
+Node.js
+Supabase
+PostgreSQL
+AI Products
 
----
+</td>
+</tr>
+</table>
 
 ---
 
@@ -68,43 +74,30 @@ My work focuses on:
 <tr>
 <td width="50%">
 
-### 🤖 AI Agent Backend
+<h3>🤖 AI Agent Backend</h3>
 
-Backend system for building AI-powered workflows using LLMs, agents, and modern API architecture.
+<p>
+AI backend architecture for intelligent workflows using LLMs, agents and API-driven services.
+</p>
 
-**Tech:** Python · FastAPI · LangChain · LangGraph · Supabase
-
-</td>
-
-<td width="50%">
-
-### 📚 AI Study Buddy
-
-AI-powered study assistant designed to help students interact with learning material and get intelligent responses.
-
-**Tech:** React · FastAPI · Python · LLMs
-
-</td>
-</tr>
-
-<tr>
-<td width="50%">
-
-### 🔎 Database Exploration System
-
-AI-powered database exploration system focused on natural-language interaction with databases and intelligent query generation.
-
-**Tech:** Python · AI/ML · NLP · SQL · Web
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square"/>
+<img src="https://img.shields.io/badge/RAG-0EA5E9?style=flat-square"/>
 
 </td>
 
 <td width="50%">
 
-### 🌱 Plant Disease Detection
+<h3>📚 AI Study Buddy</h3>
 
-Machine learning application for identifying plant diseases from leaf images using computer vision.
+<p>
+AI-powered learning assistant designed to help students interact with educational content.
+</p>
 
-**Tech:** Python · Deep Learning · Computer Vision · FastAPI
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+<img src="https://img.shields.io/badge/LLM-412991?style=flat-square"/>
 
 </td>
 </tr>
@@ -112,58 +105,196 @@ Machine learning application for identifying plant diseases from leaf images usi
 <tr>
 <td width="50%">
 
-### 🧠 BERT Sentiment Classification
+<h3>🔎 Database Exploration System</h3>
 
-NLP project using BERT-based transformer models to classify sentiment from text.
+<p>
+AI-powered database exploration using natural-language interaction and intelligent query generation.
+</p>
 
-**Tech:** PyTorch · Hugging Face · BERT · NLP
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/NLP-FF6F00?style=flat-square"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=flat-square"/>
 
 </td>
 
 <td width="50%">
 
-### 🌐 PropStateX
+<h3>🌱 Plant Disease Detection</h3>
 
-AI-focused full-stack platform combining modern web development with backend services and AI-powered workflows.
+<p>
+Deep-learning computer vision system for identifying plant diseases from leaf images.
+</p>
 
-**Tech:** Next.js · Supabase · REST APIs · AI
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square"/>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+<h3>🧠 BERT Sentiment Analysis</h3>
+
+<p>
+Transformer-based NLP model for sentiment classification using BERT and PyTorch.
+</p>
+
+<img src="https://img.shields.io/badge/BERT-FFCC00?style=flat-square"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
+
+</td>
+
+<td width="50%">
+
+<h3>🌐 PropStateX</h3>
+
+<p>
+AI-focused full-stack platform combining modern web engineering with AI-powered workflows.
+</p>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-0EA5E9?style=flat-square"/>
 
 </td>
 </tr>
 </table>
 
-<br>
-
-<div align="center">
-
-### 💡 AI • Backend • Full-Stack
-
-</div>
->
 ---
 
-## 📊 GitHub Activity
+## 🛠️ Engineering Stack
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Musa3344&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+### AI / Machine Learning
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Musa3344&layout=compact&hide_border=true&langs_count=8" height="165" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,huggingface&perline=8"/>
 
-</div>
+### Generative AI
 
-<br>
+<img src="https://skillicons.dev/icons?i=python&perline=8"/>
 
-<div align="center">
+**LLMs · RAG · LangChain · LangGraph · AI Agents · Vector Search**
 
-<img src="https://streak-stats.demolab.com?user=Muhammad-Musa3344&hide_border=true" height="165" />
+### Backend
+
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,nestjs,postgres,supabase&perline=8"/>
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,typescript,javascript&perline=8"/>
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postman&perline=8"/>
 
 </div>
 
 ---
 
+## ⚡ Engineering Focus
+
+```text
+AI Applications
+     │
+     ├── LLM Applications
+     │      ├── RAG
+     │      ├── Prompt Engineering
+     │      └── AI Agents
+     │
+     ├── Machine Learning
+     │      ├── NLP
+     │      ├── Transformers
+     │      └── Computer Vision
+     │
+     └── AI Engineering
+            ├── FastAPI
+            ├── REST APIs
+            ├── Vector Search
+            └── Full-Stack Integration
+```
+
+---
+
+## 📊 GitHub Analytics
+
 <div align="center">
 
-### 🚀 Building AI Systems · Exploring New Technologies · Shipping Projects
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Musa3344&show_icons=true&hide_border=true&count_private=true&rank_icon=github" height="170"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Musa3344&layout=compact&hide_border=true&langs_count=8" height="170"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=Muhammad-Musa3344&hide_border=true" height="170"/>
+
+</div>
+
+---
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Muhammad-Musa3344/Muhammad-Musa3344/output/github-contribution-grid-snake.svg" width="100%"/>
+
+</div>
+
+---
+
+## 💼 Experience
+
+<table>
+<tr>
+<td>
+
+**AI Engineer / AI Development**
+
+Building backend services and AI-powered product features using Python, FastAPI, Supabase and modern LLM technologies.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**AI Product Engineering — PM Accelerator**
+
+Working across AI product development, engineering workflows and AI-powered applications.
+
+</td>
+</tr>
+
+<tr>
+<td>
+
+**ML Engineer Intern — Code Fusion**
+
+Worked on machine-learning and AI development projects with practical software engineering workflows.
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+### 🌐 Let's Build Something Intelligent
+
+**AI Engineering · Generative AI · Backend · Full-Stack**
+
+<br>
+
+<a href="https://www.linkedin.com/in/muhammad-musa-8a2758257">
+<img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E293B,100:0F172A&height=120&section=footer"/>
 
 </div>
