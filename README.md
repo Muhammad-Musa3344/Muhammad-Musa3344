@@ -60,8 +60,83 @@ My work focuses on:
 
 ---
 
+---
+
+## 🚀 Featured AI Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 AI Agent Backend
+
+Backend system for building AI-powered workflows using LLMs, agents, and modern API architecture.
+
+**Tech:** Python · FastAPI · LangChain · LangGraph · Supabase
+
+</td>
+
+<td width="50%">
+
+### 📚 AI Study Buddy
+
+AI-powered study assistant designed to help students interact with learning material and get intelligent responses.
+
+**Tech:** React · FastAPI · Python · LLMs
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🔎 Database Exploration System
+
+AI-powered database exploration system focused on natural-language interaction with databases and intelligent query generation.
+
+**Tech:** Python · AI/ML · NLP · SQL · Web
+
+</td>
+
+<td width="50%">
+
+### 🌱 Plant Disease Detection
+
+Machine learning application for identifying plant diseases from leaf images using computer vision.
+
+**Tech:** Python · Deep Learning · Computer Vision · FastAPI
+
+</td>
+</tr>
+
+<tr>
+<td width="50%">
+
+### 🧠 BERT Sentiment Classification
+
+NLP project using BERT-based transformer models to classify sentiment from text.
+
+**Tech:** PyTorch · Hugging Face · BERT · NLP
+
+</td>
+
+<td width="50%">
+
+### 🌐 PropStateX
+
+AI-focused full-stack platform combining modern web development with backend services and AI-powered workflows.
+
+**Tech:** Next.js · Supabase · REST APIs · AI
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <div align="center">
 
-### 🚀 Building AI. Shipping Products. Learning Continuously.
+### 💡 AI • Backend • Full-Stack
 
 </div>
+>
