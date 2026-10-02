@@ -140,3 +140,30 @@ AI-focused full-stack platform combining modern web development with backend ser
 
 </div>
 >
+---
+
+## 📊 GitHub Activity
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Muhammad-Musa3344&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" height="165" />
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Muhammad-Musa3344&layout=compact&hide_border=true&langs_count=8" height="165" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Muhammad-Musa3344&hide_border=true" height="165" />
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Building AI Systems · Exploring New Technologies · Shipping Projects
+
+</div>
